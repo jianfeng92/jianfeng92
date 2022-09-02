@@ -1,7 +1,7 @@
 <h1>👋 Greetings!</h1>
 <p>🏠 Welcome to my page! </br>
 
-I'm *Burhan*, software developer from  <img src="https://cdn-icons-png.flaticon.com/512/555/555623.png" width="13"/> *Malaysia*, currently living in Kuala Lumpur. I’m interested in *frontend, mobile development and UI/UX*. I also occasionally working a *backend* development.</p>
+I'm *Jian Feng*, software developer from  <img src="https://cdn-icons-png.flaticon.com/512/555/555623.png" width="13"/> *Malaysia*, currently living in Kuala Lumpur. I’m interested in *frontend, mobile development and UI/UX*. I also occasionally working a *backend* development.</p>
 
 <p>⌨️ My tech jams</p>
 <p>
