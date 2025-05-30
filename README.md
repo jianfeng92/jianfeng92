@@ -6,7 +6,7 @@
 
 #### 🚀 Languages & Frameworks
 - **Primary**: C#, .NET Core, ASP.NET
-- **Secondary**: JavaScript, TypeScript, SQL, HTML/CSS
+- **Secondary**: JavaScript, React.js, Vue.js, SQL, HTML/CSS
 
 #### 🛠️ Tools & Technologies
 - **Version Control**: Git, GitHub, Azure DevOps
